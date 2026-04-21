@@ -1,95 +1,77 @@
 # Jeffrey Schwab
-<jeff@unbuggy.com> • [+1 (617) 407-2542]( tel:+16174072542 )
 
-Make it right.  Make it fast.  Make it beautiful.
+[jeff@unbuggy.com](mailto:jeff@unbuggy.com) • [+1 (617) 407-2542](tel:+16174072542)
+
+Hands-on engineering leader with 25+ years across FinTech, AI, and distributed systems. Builds and ships as an IC, leads and grows engineering teams.
 
 ## Experience
 
-### Software Architect at Wieldy AI, May 2023 - Present
-* Founding engineer at a seed stage startup
-* Helped dental practices work effectively with big insurance companies
-* Designed a platform for real time data aggregation and analysis
-* Helped ensure success of first product, first customers, and early hires
+### Staff Engineer at Bluefin, November 2024 – April 2026
 
-### Founder of Deeply Nested, July 2022 - Present
-* Publishing at <https://nested.substack.com>
-* Developing passion projects related to DevOps and DevX
-* Focusing on Rust and WebAssembly
+DeFi perpetuals exchange. Stack: Rust (Axum, Tokio), Postgres, Redis, Kafka, ZeroMQ, Kubernetes on AWS.
 
-### Acting CTO at Epistemic AI, April 2021 - June 2022
-* Helped a team of experts revolutionize the world of life science research
-* Supervised a team of ten engineers
-* Coordinated initiatives with product, science, and leadership teams
-* Left to pursue passion projects
+- Played a senior role in launching the company's first production Rust services, then continued building functionality and improving performance
+- Sustained sub-millisecond latency and three-nines uptime through profiling, benchmarking, and architecture refinement
+- Built and open-sourced a CCXT connector (and FreqTrade integration) for institutional access: [github.com/fireflyprotocol/ccxt](https://github.com/fireflyprotocol/ccxt)
+- Raised code quality through thorough review and mentorship of engineers new to Rust
 
-### Senior Software Engineer (SWE) at Google, January 2019 - August 2020
-* Worked on a dedicated Engineering Productivity team within Core Systems
-* Led development of automatic unit test generator for Angular components
-* Collaborated regularly with engineers on three coasts
+### Software Architect at Wieldy AI, May 2023 – November 2024
 
-### Engineering Manager at Zipdrug, July 2018 - January 2019
-* Began as contractor, and served briefly as Head of Engineering
-* Formalized development processes and automated data integrations
-* Zipdrug was acquired by Anthem's new PBM, IngenioRx
+Seed-stage healthtech startup. Team of 5 engineers.
 
-### Principal Engineer at Metamarkets, December 2016 - November 2017
-* First engineer in NYC office of Big Data analytics startup
-* Identified opportunities, built prototypes, and guided ongoing development
-* Worked closely with Sales and Client Services
-* Left upon acquisition by Snap, makers of Snapchat
+- Built backend services for real-time data aggregation and analysis (Python, async)
+- Developed RPA-based integrations with external systems
 
-### Engineering Manager at Orchard Platform, December 2013 - August 2016
-* Employee #1 at successful FinTech startup (acquired, now American Express)
-* Hired as Senior Engineer, then managed Infrastructure team
-* Designed and implemented cloud-based microservice architecture
-* Worked on real-time bidding, API integrations, and custom tooling
+### Acting CTO at Epistemic AI, April 2021 – June 2022
 
-### Contracting and private projects, 2013 - 2018
-* Tutored adults pursuing programming as a second career, mostly in Python
-* Developed C++ and Scala code including memory allocators and build tools
-* Completed projects for Twitter, Walmart, and various small companies
+NLP and knowledge-graph platform for biomedical research, serving academic researchers, pharmaceutical companies, and clinicians.
 
-### Tech Lead at Bloomberg, November 2010 - March 2013
-* Hired as a C++ developer after two-month contract; later managed a small team
-* Trained other engineers on scalable C++ development
-* Helped create binding layer to expose native code to dynamic languages
-* Guided development of Launchpad, a special-purpose window manager
+- Led an engineering team of ten across backend, frontend, and ML infrastructure
+- Built infrastructure for versioning and deploying ML models independently of application code
+- Coordinated cross-functional work with product, science, and leadership teams
 
-### Engineering Consultant at GE / Morpho Detection, July 2009 - October 2010
-* Helped debug novel hardware and real-time ARM/Linux application
-* Development device drivers, UI, and low-bandwidth wireless protocol
-* Contracted through Adecco
+### Senior Software Engineer at Google, January 2019 – August 2020
 
-### Senior Engineer at CLK Design Automation, April 2008 - February 2009
-* Developed in-house tooling for finding bugs in highly parallel code
-* Wrote and integrated C++ and TCL code
-* Laid off; company no longer exists
+- Engineering Productivity team within Core Systems
+- Led development of automatic unit test generator for Angular components
+- Collaborated regularly with engineers on three coasts
 
-### Software Engineer at Silicon Navigator, September 2007 - April 2008
-* Led ongoing development of interactive graphical tool for circuit design
-* Enhanced UI; fixed numerous bugs; added complex new functionality
-* Laid off when company shut down
+### Engineering Manager at Zipdrug, July 2018 – January 2019
 
-### Software Engineer at IBM, June 2004 - September 2007
-* First member of new microprocessor design team
-* Developed and supported in-house Electronic Design Automation tools
-* Projects included game console development and ITAR defense work
+- Began as contractor, served briefly as Head of Engineering
+- Formalized development processes and automated data integrations
+- Acquired by Anthem's PBM, IngenioRx
 
-### EDA Engineer at Sun Microsystems, May 2000 - June 2004
-* Developed and supported semiconductor design tools, improving performance 10-100x
-* Created executive dashboard to track bicoastal project's release readiness
-* Laid off during massive reduction in force
+### Principal Engineer at Metamarkets, December 2016 – November 2017
+
+- First engineer in NYC office of Big Data analytics startup
+- Identified opportunities, built prototypes, and guided ongoing development
+- Acquired by Snap
+
+### Engineering Manager at Orchard Platform, December 2013 – August 2016
+
+- Employee #1 at FinTech startup (acquired, now American Express)
+- Hired as Senior Engineer, then managed Infrastructure team
+- Designed and implemented cloud-based microservice architecture
+- Worked on real-time bidding, API integrations, and custom tooling
+
+### Tech Lead at Bloomberg, November 2010 – March 2013
+
+- Hired as C++ developer after two-month contract; later managed a small team
+- Helped create binding layer to expose native code to dynamic languages
+- Guided development of Launchpad, a special-purpose window manager
+
+### Earlier roles, 2000 – 2010
+
+Engineering positions at GE/Morpho Detection, CLK Design Automation, Silicon Navigator, IBM, and Sun Microsystems. C++, Tcl, EDA tooling, embedded systems, and microprocessor design automation.
 
 ## Education
 
-* B.S. in Computer Systems Engineering,  Boston University; Dean's List
-* National Merit Scholar
-* Perfect score (1600) on GRE
+B.S. in Computer Systems Engineering, Boston University
 
 ## Technology
 
-* C++, Rust, Golang, JavaScript, Python, Scala, and other programming languages
-* Cloud computing, microservices, and system architecture
-* Functional Programming and Object-Oriented Programming
-* Embedded software development
-* Unix/Linux and relevant tooling: Bash, Vim, Git, etc.
+- **Languages**: Rust, C++, Python, Go, TypeScript
+- **Systems**: Distributed systems, performance engineering, microservices
+- **Infrastructure**: Kafka, Redis, Postgres, Kubernetes, AWS
+- **Domain**: FinTech, AI/ML platforms, healthcare
