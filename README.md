@@ -2,7 +2,7 @@
 
 [jeff@unbuggy.com](mailto:jeff@unbuggy.com) • [+1 (617) 407-2542](tel:+16174072542) • [github.com/jeffs](https://github.com/jeffs)
 
-Hands-on engineering leader with 25+ years across FinTech, AI, and distributed systems.
+Senior systems engineer with 25+ years in FinTech, distributed systems, high throughput, and low latency.
 
 ## Experience
 
@@ -18,25 +18,18 @@ Learn more at [Unbuggy.com](https://unbuggy.com).
 
 DeFi perpetuals exchange. Rust (Axum, Tokio), Postgres, Redis, Kafka, ZeroMQ, Kubernetes on AWS.
 
-- Played a senior role in launching the company's first production Rust services, then continued building functionality and improving performance
+- Drove the final push to get the company's first production Rust services to launch, then continued building functionality and improving performance
 - Sustained sub-millisecond latency and three-nines uptime through profiling, benchmarking, and architecture refinement
 - Built and open-sourced a CCXT connector (and FreqTrade integration) for institutional access: [github.com/fireflyprotocol/ccxt](https://github.com/fireflyprotocol/ccxt)
-- Raised code quality through thorough review and mentorship of engineers new to Rust
+- Mentored engineers new to Rust on benchmarking discipline, dependency hygiene, and code review standards
 
 ### Software Architect at Wieldy AI, May 2023 – November 2024
 
-Seed-stage healthtech startup. Team of 5 engineers.
-
-- Built backend services for real-time data aggregation and analysis (Python, async)
-- Developed RPA-based integrations with external systems
+Seed-stage healthtech startup (team of 5 engineers). Built backend services and data integrations in Python, including RPA-based integrations with insurance systems, for a platform helping dental practices navigate insurance workflows.
 
 ### Acting CTO at Epistemic AI, April 2021 – June 2022
 
-NLP and knowledge-graph platform for biomedical research, serving academic researchers, pharmaceutical companies, and clinicians.
-
-- Led an engineering team of ten across backend, frontend, and ML infrastructure
-- Built infrastructure for versioning and deploying ML models independently of application code
-- Coordinated cross-functional work with product, science, and leadership teams
+NLP platform for biomedical research, serving researchers, pharma, and clinicians. Led a team of 10 engineers across backend, frontend, and ML infrastructure. Owned model versioning and deployment workflows decoupled from application code.
 
 ### Senior Software Engineer at Google, January 2019 – August 2020
 
@@ -79,7 +72,7 @@ B.S. in Computer Systems Engineering, Boston University
 
 ## Technology
 
-- **Languages**: Rust, C++, Python, Go, TypeScript
-- **Systems**: Distributed systems, performance engineering, microservices
+- **Languages**: Rust, C++, Python, Go, TypeScript, Scala
+- **Systems**: Distributed systems, async/concurrent programming, performance engineering
 - **Infrastructure**: Kafka, Redis, Postgres, Kubernetes, AWS
-- **Domain**: FinTech, AI/ML platforms, healthcare
+- **Domain**: FinTech, DeFi, trading systems
