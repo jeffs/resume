@@ -8,7 +8,7 @@ Hands-on engineering leader with 25+ years across FinTech, AI, and distributed s
 
 ### Staff Engineer at Bluefin, November 2024 – April 2026
 
-DeFi perpetuals exchange. Stack: Rust (Axum, Tokio), Postgres, Redis, Kafka, ZeroMQ, Kubernetes on AWS.
+DeFi perpetuals exchange. Rust (Axum, Tokio), Postgres, Redis, Kafka, ZeroMQ, Kubernetes on AWS.
 
 - Played a senior role in launching the company's first production Rust services, then continued building functionality and improving performance
 - Sustained sub-millisecond latency and three-nines uptime through profiling, benchmarking, and architecture refinement
@@ -63,7 +63,7 @@ NLP and knowledge-graph platform for biomedical research, serving academic resea
 
 ### Earlier roles, 2000 – 2010
 
-Engineering positions at GE/Morpho Detection, CLK Design Automation, Silicon Navigator, IBM, and Sun Microsystems. C++, Tcl, EDA tooling, embedded systems, and microprocessor design automation.
+Engineering positions at Sun Microsystems, IBM, GE, and various startups. C++, embedded systems, and microprocessor design automation (EDA).
 
 ## Education
 

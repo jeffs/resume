@@ -1,0 +1,66 @@
+:root {
+  --base-font-size: 9.5pt;
+}
+
+@page {
+  size: letter;
+  margin: 0.8in;
+}
+
+body {
+  font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: var(--base-font-size);
+  line-height: 1.4;
+  color: #222;
+  margin: 0;
+}
+
+h1 {
+  font-size: 2.95em;
+  font-weight: 700;
+  margin: 0 0 0.15em 0;
+}
+
+h2 {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 1.16em;
+  font-weight: 700;
+  margin: 1.5em 0 0.5em 0;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #bbb;
+}
+
+h3 {
+  font-size: 1.16em;
+  font-weight: 700;
+  margin: 0.9em 0 0.15em 0;
+}
+
+p {
+  margin: 0.4em 0;
+}
+
+ul {
+  margin: 0.3em 0 0.6em 0;
+  padding-left: 1.4em;
+}
+
+li {
+  margin: 0.15em 0;
+}
+
+a {
+  color: #2862b9;
+  text-decoration: underline;
+}
+
+h1+p {
+  font-size: 1.05em;
+  margin-top: 0;
+}
+
+h1+p+p {
+  font-style: italic;
+  margin-bottom: 1em;
+}
