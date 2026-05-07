@@ -2,7 +2,7 @@
 
 [jeff@unbuggy.com](mailto:jeff@unbuggy.com) • [+1 (617) 407-2542](tel:+16174072542) • [github.com/jeffs](https://github.com/jeffs)
 
-Hands-on engineering leader with 25+ years across FinTech, AI, and distributed systems.
+Engineering leader with 25+ years building and scaling startup engineering teams across health AI, FinTech, and developer platforms.
 
 ## Experience
 
@@ -16,27 +16,29 @@ Learn more at [Unbuggy.com](https://unbuggy.com).
 
 ### Staff Engineer at Bluefin, November 2024 – April 2026
 
-DeFi perpetuals exchange. Rust (Axum, Tokio), Postgres, Redis, Kafka, ZeroMQ, Kubernetes on AWS.
+DeFi perpetuals exchange. Rust, Python, TypeScript, Postgres, Redis, Kafka, Kubernetes on AWS.
 
-- Played a senior role in launching the company's first production Rust services, then continued building functionality and improving performance
-- Sustained sub-millisecond latency and three-nines uptime through profiling, benchmarking, and architecture refinement
-- Built and open-sourced a CCXT connector (and FreqTrade integration) for institutional access: [github.com/fireflyprotocol/ccxt](https://github.com/fireflyprotocol/ccxt)
+- Led the team's adoption of Rust, helping bring the company's first production Rust services from late-stage development to launch
+- Sustained sub-millisecond latency and three-nines uptime through architecture refinement and performance work
+- Built and open-sourced exchange connectors (CCXT, FreqTrade) for institutional integration: [github.com/fireflyprotocol/ccxt](https://github.com/fireflyprotocol/ccxt)
 - Raised code quality through thorough review and mentorship of engineers new to Rust
 
 ### Software Architect at Wieldy AI, May 2023 – November 2024
 
-Seed-stage healthtech startup. Team of 5 engineers.
+Seed-stage healthtech startup helping dental practices navigate insurance workflows. Team of 5 engineers.
 
 - Built backend services for real-time data aggregation and analysis (Python, async)
-- Developed RPA-based integrations with external systems
+- Developed RPA-based integrations with insurance carrier systems
+- Contributed to architecture decisions from early platform design through first-customer launches
 
 ### Acting CTO at Epistemic AI, April 2021 – June 2022
 
-NLP and knowledge-graph platform for biomedical research, serving academic researchers, pharmaceutical companies, and clinicians.
+NLP and knowledge-graph platform for biomedical research. Real paying users across academic researchers, pharmaceutical companies, and clinicians.
 
 - Led an engineering team of ten across backend, frontend, and ML infrastructure
 - Built infrastructure for versioning and deploying ML models independently of application code
 - Coordinated cross-functional work with product, science, and leadership teams
+- Stack: Python, knowledge graphs (SPARQL), ML model serving
 
 ### Senior Software Engineer at Google, January 2019 – August 2020
 
@@ -61,7 +63,6 @@ NLP and knowledge-graph platform for biomedical research, serving academic resea
 - Employee #1 at FinTech startup (acquired, now American Express)
 - Hired as Senior Engineer, then managed Infrastructure team
 - Designed and implemented cloud-based microservice architecture
-- Worked on real-time bidding, API integrations, and custom tooling
 
 ### Tech Lead at Bloomberg, November 2010 – March 2013
 
@@ -79,7 +80,7 @@ B.S. in Computer Systems Engineering, Boston University
 
 ## Technology
 
-- **Languages**: Rust, C++, Python, Go, TypeScript
-- **Systems**: Distributed systems, performance engineering, microservices
-- **Infrastructure**: Kafka, Redis, Postgres, Kubernetes, AWS
-- **Domain**: FinTech, AI/ML platforms, healthcare
+- **Languages**: Python, Rust, TypeScript, C++, Go
+- **AI/ML**: NLP, knowledge graphs, model serving and versioning, LLM-based systems
+- **Systems**: Distributed systems, real-time data, microservices
+- **Leadership**: Engineering team management, hiring, cross-functional collaboration
