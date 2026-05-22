@@ -2,7 +2,7 @@
 
 [jeff@unbuggy.com](mailto:jeff@unbuggy.com) • [+1 (617) 407-2542](tel:+16174072542) • [github.com/jeffs](https://github.com/jeffs)
 
-Hands-on engineering leader with 25+ years across FinTech, AI, and distributed systems.
+Full-stack engineering leader with 25+ years building and scaling startup teams across health AI, FinTech, and developer platforms. Equally comfortable in backend systems (Rust, Python, distributed infrastructure) and frontend development (React, TypeScript).
 
 ## Experience
 
@@ -28,7 +28,8 @@ DeFi perpetuals exchange. Rust (Axum, Tokio), Postgres, Redis, Kafka, ZeroMQ, Ku
 Seed-stage healthtech startup. Team of 5 engineers.
 
 - Built backend services for real-time data aggregation and analysis (Python, async)
-- Developed RPA-based integrations with external systems
+- Developed RPA-based integrations with insurance carrier systems using Playwright
+- Contributed to architecture decisions from early platform design through first-customer launches
 
 ### Acting CTO at Epistemic AI, April 2021 – June 2022
 
@@ -40,7 +41,7 @@ NLP and knowledge-graph platform for biomedical research, serving academic resea
 
 ### Senior Software Engineer at Google, January 2019 – August 2020
 
-- Engineering Productivity team within Core Systems
+- Engineering Productivity team within Core Systems (TypeScript, Angular)
 - Led development of automatic unit test generator for Angular components
 - Collaborated regularly with engineers on three coasts
 
@@ -52,8 +53,8 @@ NLP and knowledge-graph platform for biomedical research, serving academic resea
 
 ### Principal Engineer at Metamarkets, December 2016 – November 2017
 
-- First engineer in NYC office of Big Data analytics startup
-- Identified opportunities, built prototypes, and guided ongoing development
+- First engineer in NYC office of Big Data analytics startup (React, TypeScript)
+- Built interactive data-visualization features and guided ongoing product development
 - Acquired by Snap
 
 ### Engineering Manager at Orchard Platform, December 2013 – August 2016
@@ -79,7 +80,8 @@ B.S. in Computer Systems Engineering, Boston University
 
 ## Technology
 
-- **Languages**: Rust, C++, Python, Go, TypeScript
-- **Systems**: Distributed systems, performance engineering, microservices
-- **Infrastructure**: Kafka, Redis, Postgres, Kubernetes, AWS
-- **Domain**: FinTech, AI/ML platforms, healthcare
+- **Languages**: TypeScript, Python, Rust, C++, Go
+- **Frontend**: React, Angular, Playwright, data visualization
+- **Backend & Infrastructure**: Distributed systems, real-time data, microservices, Kafka, Postgres, Redis
+- **AI/ML**: NLP, knowledge graphs, model serving and versioning, LLM-based systems
+- **Leadership**: Engineering team management, hiring, cross-functional collaboration
