@@ -36,7 +36,7 @@ NLP and knowledge-graph platform for biomedical research, serving academic resea
 - Led development of automatic unit test generator for Angular components
 - Collaborated regularly with engineers on three coasts
 
-### Engineering Manager at Zipdrug, July 2018 – January 2019
+### Engineer at Zipdrug, July 2018 – January 2019
 
 - Began as contractor, served briefly as Head of Engineering
 - Formalized development processes and automated data integrations
