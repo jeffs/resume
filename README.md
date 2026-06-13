@@ -1,6 +1,6 @@
 # Jeffrey Schwab
 
-[jeff@unbuggy.com](mailto:jeff@unbuggy.com) • [+1 (617) 407-2542](tel:+16174072542)
+[jeff@unbuggy.com](mailto:jeff@unbuggy.com) • [+1 (617) 407-2542](tel:+16174072542) • [github.com/jeffs](https://github.com/jeffs)
 
 Hands-on engineering leader with 25+ years across FinTech, AI, and distributed systems. Builds and ships as an IC, leads and grows engineering teams.
 
