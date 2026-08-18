@@ -2,7 +2,7 @@
 
 [jeff@unbuggy.com](mailto:jeff@unbuggy.com) • [+1 (617) 407-2542](tel:+16174072542) • [github.com/jeffs](https://github.com/jeffs)
 
-Hands-on engineering leader with 25+ years across FinTech, AI, and distributed systems.
+Hands-on systems engineer with 25+ years across FinTech, AI, and distributed systems, 5+ years writing production Rust.
 
 ## Experience
 
@@ -18,25 +18,22 @@ Learn more at [Unbuggy.com](https://unbuggy.com).
 
 DeFi perpetuals exchange. Rust (Axum, Tokio), Postgres, Redis, Kafka, ZeroMQ, Kubernetes on AWS.
 
-- Played a senior role in launching the company's first production Rust services, then continued building functionality and improving performance
+- Wrote Rust daily as the team's primary language, playing a senior role in launching the company's first production Rust services and then extending them
 - Sustained sub-millisecond latency and three-nines uptime through profiling, benchmarking, and architecture refinement
-- Built and open-sourced a CCXT connector (and FreqTrade integration) for institutional access: [github.com/fireflyprotocol/ccxt](https://github.com/fireflyprotocol/ccxt)
 - Raised code quality through thorough review and mentorship of engineers new to Rust
+- Built and open-sourced a CCXT connector (and FreqTrade integration) for institutional access: [github.com/fireflyprotocol/ccxt](https://github.com/fireflyprotocol/ccxt)
 
 ### Software Architect at Wieldy AI, May 2023 – November 2024
 
-Seed-stage healthtech startup. Team of 5 engineers.
-
-- Built backend services for real-time data aggregation and analysis (Python, async)
-- Developed RPA-based integrations with external systems
+Seed-stage healthtech startup (team of 5 engineers). Built backend services for real-time data aggregation and analysis, plus RPA-based integrations with external systems, in async Python.
 
 ### Acting CTO at Epistemic AI, April 2021 – June 2022
 
 NLP and knowledge-graph platform for biomedical research, serving academic researchers, pharmaceutical companies, and clinicians.
 
+- Built internal services in Rust
 - Led an engineering team of ten across backend, frontend, and ML infrastructure
 - Built infrastructure for versioning and deploying ML models independently of application code
-- Coordinated cross-functional work with product, science, and leadership teams
 
 ### Senior Software Engineer at Google, January 2019 – August 2020
 
@@ -79,7 +76,8 @@ B.S. in Computer Systems Engineering, Boston University
 
 ## Technology
 
-- **Languages**: Rust, C++, Python, Go, TypeScript
+- **Rust**: Tokio, Axum, async services, profiling and benchmarking, review and mentorship
+- **Other languages**: C++, Python, Go, TypeScript
 - **Systems**: Distributed systems, performance engineering, microservices
-- **Infrastructure**: Kafka, Redis, Postgres, Kubernetes, AWS
-- **Domain**: FinTech, AI/ML platforms, healthcare
+- **Infrastructure**: Kafka, Redis, ZeroMQ, Postgres, Kubernetes, AWS
+- **Domain**: FinTech and DeFi, AI/ML platforms, healthcare
